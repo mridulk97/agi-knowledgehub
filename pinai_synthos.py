@@ -6,16 +6,20 @@ pinai_key = os.getenv("PINAI_API_KEY")
 
 client = PINAIAgentSDK(api_key=pinai_key) # you can get it from https://agent.pinai.tech/profile.
 
+# Store conversation history by session_id
+conversation_history = {}
+
 # from openai import OpenAI
 # openai_client = OpenAI()
 filename = 'newsletters_compiled.txt'
 with open(filename, "r", encoding="utf-8") as file:
-        # Read the entire content of the file
+    # Read the entire content of the file
     news_letter = file.read()
 
 
 def handle_message(message):
     """
+    Handle incoming messages, store conversation history, and generate responses
     """
     print(f"Received: {message['content']}")
 
@@ -26,9 +30,19 @@ def handle_message(message):
     
     # Get user's message
     user_message = message.get("content", "")
-
+    
+    # Initialize conversation history for this session if it doesn't exist
+    if session_id not in conversation_history:
+        conversation_history[session_id] = []
+    
+    # Add the user's message to conversation history
+    conversation_history[session_id].append(f"User: {user_message}")
+    
     # Get persona info
     persona_info = client.get_persona(session_id)
+    
+    # Format conversation history for the prompt
+    history_text = "\n".join(conversation_history[session_id][-10:])  # Only keep last 10 messages
     
     PROMPT = f"""
     ROLE & PURPOSE
@@ -40,6 +54,9 @@ def handle_message(message):
 
     NEWSLETTER INPUT:
     {news_letter}
+    
+    CONVERSATION HISTORY:
+    {history_text}
 
     INSTRUCTIONS:
 
@@ -54,19 +71,19 @@ def handle_message(message):
     Craft an insightful headline that captures the essence of the theme.
     Include 2-4 key developments with thoughtful analysis.
     Draw connections between related items.
-    Provide strategic implications based on the user’s background.
+    Provide strategic implications based on the user's background.
     ADVANCED AI-DRIVEN INSIGHT MATCHING & KNOWLEDGE GAP ANALYSIS
     STEP 1: EXTRACT KEYWORDS & CONCEPTS
     Use advanced NLP extraction to identify thematic keywords and core concepts from the synthesized newsletter insights.
-    STEP 2: CORRELATE INSIGHTS WITH USER’S "MIND MAP"
-    Compare extracted keywords against the user’s known expertise, skills, and interests from their resume and prior content interactions.
+    STEP 2: CORRELATE INSIGHTS WITH USER'S "MIND MAP"
+    Compare extracted keywords against the user's known expertise, skills, and interests from their resume and prior content interactions.
     Identify overlapping themes where the user already has strong knowledge.
     STEP 3: IDENTIFY KNOWLEDGE GAPS
-    Note missing key subjects that are not present in the user’s "mind map" but are emerging as highly relevant based on the newsletter insights.
+    Note missing key subjects that are not present in the user's "mind map" but are emerging as highly relevant based on the newsletter insights.
     Flag important subfields the user is not yet familiar with but should be exploring.
     STEP 4: GENERATE A MATCH SCORE
     Assign a content relevance score (out of 100) that quantifies:
-    How well the newsletter insights align with the user’s existing expertise.
+    How well the newsletter insights align with the user's existing expertise.
     How much of the content is new and expands their knowledge base.
     This is similar to the GOD Score, indicating how well the digest content matches personal/professional goals.
     STEP 5: AI-POWERED RECOMMENDATIONS FOR KNOWLEDGE EXPANSION
@@ -85,8 +102,8 @@ def handle_message(message):
     SPECIAL FEATURES:
     "Connections" – Highlights cross-newsletter insights and identifies common themes across different sources.
     "Deep Dive Recommendations" – Provides specific resources for further exploration on a given topic.
-    "Why This Matters to You" – Contextualizes the relevance of insights to the user’s personal and professional background.
-    "Industry Spotlight" – Focuses on developments in the user’s professional domains.
+    "Why This Matters to You" – Contextualizes the relevance of insights to the user's personal and professional background.
+    "Industry Spotlight" – Focuses on developments in the user's professional domains.
     "Knowledge Gaps & Learning Path" – AI-driven personalized learning recommendations based on detected knowledge gaps.
     FORMATTING & FINAL DELIVERY:
     Professional layout with clear section dividers.
@@ -98,7 +115,7 @@ def handle_message(message):
     End with a "Looking Ahead" section and a thoughtful closing comment.
     TECHNICAL INTEGRATION CONSIDERATIONS
     LLM Querying: Run two LLM passes – first for summarization, then for keyword extraction, knowledge gap analysis, and learning recommendations.
-    Intent Matching with PIN AI: If PIN AI’s Intent Matching Protocol is integrated, allow AI agents to recommend optimal learning paths based on detected knowledge gaps.
+    Intent Matching with PIN AI: If PIN AI's Intent Matching Protocol is integrated, allow AI agents to recommend optimal learning paths based on detected knowledge gaps.
     Visualization Component: Create a visual mind map of user knowledge versus emerging topics to show gaps and strengths dynamically.
     User Feedback Loop: Allow users to confirm, dismiss, or refine AI-generated recommendations to improve future personalization.
     Final Outcome of This Enhanced AI Workflow
@@ -107,25 +124,28 @@ def handle_message(message):
     Content relevance scoring (out of 100) to measure alignment with user goals.
     AI-driven knowledge gap detection, flagging missing subfields the user should explore.
     Curated, high-quality recommendations for books, podcasts, research papers, and online courses to bridge knowledge gaps.
-
-
+    
+    IMPORTANT: If the user is asking a follow-up question referring to previous content, use the conversation history to provide context-aware responses.
     """
 
     # Create your response (this is where your agent logic goes)
     default_response = f"I am still in development. I will be able to help you soon.... \n This is what you said: {user_message}"
-    # Use OpenAI to generate a response if API key is available
-    # breakpoint()
+    
     try:
         from google import genai
         gemini_client = genai.Client(api_key=gemini_key)
-        prompt = f"This is my personal information {persona_info}, answer any questions based on this information so any questions I ask now should take into account and are personalized to me.   Now the real question : {user_message}"
+        
+        # Using the updated prompt with conversation history
         gemini_response = gemini_client.models.generate_content(model="gemini-2.0-flash", contents=PROMPT)
-        # print(gemini_response.text)
-        # Extract the response from the API result
         response = gemini_response.text
+        
+        # Add the response to conversation history
+        conversation_history[session_id].append(f"Synthos: {response}")
+        
     except Exception as e:
-        print(f"Error calling OpenAI API: {e}")
+        print(f"Error calling Gemini API: {e}")
         response = default_response
+        conversation_history[session_id].append(f"Synthos: {response}")
 
     # Send response back to user
     client.send_message(content=response)
@@ -134,14 +154,6 @@ def handle_message(message):
 # client.start_and_run(
 #     on_message_callback=handle_message,
 #     agent_id=158  # [PINAI]Hackathon Assistant Agent
-# )
-
-
-# agent_info = client.register_agent(
-#     name="Synthos",
-#     description="Synthos is an AI agent we built for personal knowledge growth. It scrapes a user's email inbox and resume to synthesize content from a variety of newsletters, delivering personalized insights aligned with the user's expertise and professional goals. Using LLM-driven analysis, intent matching, and knowledge mapping, the agent identifies emerging trends and knowledge gaps. From these gaps, it recommends high-quality learning resources, ensuring users stay informed and build well-rounded knowledge of their domain.",
-#     category=AGENT_CATEGORY_PRODUCTIVITY,  # Choose from available categories
-#     # Optional: wallet="your_wallet_address"
 # )
 
 client.start_and_run(
