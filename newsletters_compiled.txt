@@ -1,0 +1,697 @@
+﻿TITLE: THE BRIEFING
+
+
+The Briefing
+By Martin Peers
+
+
+Greetings!
+
+
+This year is really turning into a dud for tech stocks. ’s big
+market sell-off slammed the tech sector across the board,
+particularly chip companies like Nvidia and Broadcom that have
+wide exposure to China. That made it a somewhat inauspicious
+day for CoreWeave, a young cloud company operating data centers
+for artificial intelligence firms, to release paperwork for its
+planned public debut.
+
+
+CoreWeave’s IPO is much anticipated, as it will give investors
+another avenue for exposure to AI. And on some metrics,
+CoreWeave looks to be going gangbusters. As my colleague Cory
+Weinberg scooped on Sunday, the IPO filing showed that
+CoreWeave’s revenue skyrocketed by eight times to $1.9 billion.
+The only fly in the ointment is that Microsoft accounted for 62% of
+that revenue, a concentration of risk that surely won’t thrill
+
+
+MAR 3
+
+
+Mar 3, 2025
+
+
+Monday
+3/8/25, 3:44 PM The Briefing: CoreWeave Discloses IPO paperwork • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1955eb0afe70bf51 1/8
+
+
+investors. After all, Microsoft is a competitor as well as a customer
+of CoreWeave (as we described here). A shortage of AI data center
+capacity makes CoreWeave valuable for Microsoft right now—but
+given how many data centers are under development, that may not
+always be the case. It also may not help that the founders have
+cashed out nearly $500 million worth of stock already, as Cory
+reported tonight.
+
+
+Whatever investors make of the company, its IPO prospects likely
+rest in part on the state of the market. ’s drop—the S&P
+500 fell 1.7%—appeared driven by investors realizing that
+President Donald Trump’s threats of additional tariffs against
+China and new levies on Canada and Mexico are likely to become a
+reality as of .
+
+
+Of the group of tech companies with at least a trillion-dollar
+market capitalization, only Meta Platforms is up for the year. The
+rest are down anywhere from about 5% (for Apple) to roughly 30%
+
+
+for Tesla (which as a result no longer can be counted as a trillion-
+dollar company), according to Koyfin data. Some of these stocks
+
+
+are coming off a good year in 2024, which likely mutes the pain of
+the sell-off. Nvidia, for instance, was up 171% last year and 239%
+in 2023, which puts its 15% year-to-date decline into perspective.
+
+
+But for a couple—Microsoft and to a lesser extent Alphabet—last
+year wasn’t that great either. Take Microsoft, whose partnership
+with OpenAI made it an early entrant in the AI revolution of the
+past two years. Since the start of last year, Microsoft stock has
+
+
+Monday
+
+
+Tuesday
+
+
+3/8/25, 3:44 PM The Briefing: CoreWeave Discloses IPO paperwork • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1955eb0afe70bf51 2/8
+
+
+risen just 6%. Alphabet is doing a little better: It has gained about
+21% since the start of last year. Still, that pales compared with
+Meta’s 90% gain in the same period.
+
+
+Given the widespread economic uncertainty sparked by Trump’s
+continual tariff threats, the market jitters are likely to be a
+permanent feature of this year. The pain is extending to crypto, a
+sector that should be roaring right now given Trump’s
+deregulation moves. But the negative impact of his tariffs can
+offset the positive impact of his other moves, as we saw
+, when a bitcoin sell-off wiped out most of the gains
+sparked earlier by his announcement about the specific
+cryptocurrencies he’d add to the crypto “strategic reserve” he
+wants to create. Coinbase dropped nearly 5% and is off 17%
+for the year.
+
+
+It’s still early days, but it doesn’t look like we’re going to see a
+repeat of the robust market rally that accompanied the first Trump
+administration.
+
+
+As for TikTok...
+
+
+Meanwhile, amid Trump’s tough tariff talk, the clock is ticking on
+TikTok. When he took office in January, Trump put a ban of the
+app on hold, giving TikTok 75 more days to get into compliance
+with a law that requires it to cut ties with its Chinese parent
+ByteDance or face a U.S. ban. That 75-day period runs out .
+on Monday
+
+
+today
+
+
+April 5
+3/8/25, 3:44 PM The Briefing: CoreWeave Discloses IPO paperwork • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1955eb0afe70bf51 3/8
+
+
+In the days after Trump delayed the bill, he talked a lot about all
+the interest from U.S. companies in buying into TikTok.
+Anticipation about a deal coming soon intensified after Trump
+said on Jan. 25 he’d make a decision on the app’s future in 30
+days. But time has passed, and all the chatter about TikTok has
+gone quiet.
+
+
+One reason may be that Trump’s tariff threats against China,
+which almost certainly will tie into the TikTok negotiation, have
+only gotten worse. Judging from this New York Times story on
+Monday, the Chinese are not moving quickly enough for Trump’s
+liking, because they’re busy trying to figure out what the president
+wants. As the Chinese government will have to agree to any deal
+on TikTok, talks might be up in the air until the broader tariffs
+discussion gets underway.
+
+
+TikTok fans likely have little to worry about. Trump could delay
+the law’s implementation again if he needs to. It’s possible some
+supporters of the law will start to complain, but there’s little they
+can do other than sue. And fighting Trump in court won’t be a
+speedy process.
+
+
+In Other News
+
+
+Taiwan Semiconductor Manufacturing Co. is planning to
+spend $100 billion on chip manufacturing plants in the U.S.,
+President Donald Trump and TSMC’s CEO announced at the
+White House on Monday.
+
+
+3/8/25, 3:44 PM The Briefing: CoreWeave Discloses IPO paperwork • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1955eb0afe70bf51 4/8
+
+
+Exclusive
+CoreWeave Had Soaring Revenues and
+Capex Ahead of Planned IPO
+By Cory Weinberg
+
+
+Exclusive
+SoftBank’s Son Goes on a New
+Borrowing Binge to Fund AI
+By Juro Osawa and Cory Weinberg
+
+
+Alexis Ohanian, a Reddit co-founder and an investor, joined
+billionaire Frank McCourt’s bid to acquire TikTok as a
+strategic adviser specializing in social media.
+Microsoft unveiled AI for doctors and nurses to
+automate time-consuming clerical work, such as preparing
+patient summaries or writing referrals based on recordings of
+doctor-patient conversations. The product, Dragon Copilot,
+will be available in the U.S. and Canada in May, Microsoft
+said.
+
+
+
+
+
+
+________________
+
+
+
+
+
+
+TITLE:  CONTRARY RESEARCH RUNDOWN
+
+
+#125
+How Replit is making the original vision of computing a reality with
+agentic AI, plus new memos on Chainguard, Personio, and more
+
+
+READ IN APP
+
+
+Contrary is hosting our first Tech Talk of the year in SF with Index Ventures,
+featuring eng leads and founders from Baseten, Codeium, Mercor, Patch,
+and Doss.
+An evening built by engineers for engineers — each company will live demo
+their latest product innovations for leading builders in the Bay Area. RSVP
+here!
+
+
+MAR 1
+
+
+MAR 1
+
+
+Research Rundown
+
+
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 1/10
+
+
+In the early days of computing, the vision for how humans would interact
+with computers looked nothing like the paradigm we've known for the past
+50 years. One of the founding documents of computing was Alan Turingʼs
+“Computing Machinery and Intelligence.” In it, Turing didnʼt describe the
+point-and-click paradigm we have .
+Instead, the earliest visions of computing machines were framed as
+reasoning agents, responding dynamically to human input. When John
+McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon coined
+the term “artificial intelligence” in a 1955 research proposal, they described
+machines that, rather than relying on step-by-step human prompting, could
+autonomously perform tasks, learn, and even reason like a human.
+That vision never materialized, due to a combination of hardware
+constraints, especially insufficient processing power, as well as slow
+progress in AI through the 1980s and 1990s, and the commercial success
+of the graphical user interface (GUI). People settled for a direct
+manipulation paradigm, where users manually interact with graphical
+interfaces via mouse and keyboard.
+Even in these simpler forms, Steve Jobs described computers as “a bicycle
+of the mind... something that takes us far beyond our inherent abilities.” But
+the vision for a computer wasnʼt meant to be a tool you handle, like a pencil.
+It was meant to automate away aspects of work that humans donʼt need to
+do.
+Whatʼs old is becoming new. Increasingly, computing is returning to the
+original vision of its founding days — autonomous reasoning machines that
+can perform tasks independent of direct human manipulation. McKinsey
+estimates $4.4 trillion of annual economic value creation globally due to AI,
+
+
+today
+
+
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 2/10
+
+
+largely driven by AI agents. Andrew Ng has described agentic AI as “the
+most important trend to pay attention to” in November 2024.
+The introduction of agents in almost every use case is expected to be the
+primary driver of value as AI is increasingly deployed, and it is expected to
+increase in volume by 45% over the next five years. More agents,
+everywhere. 2025 is expected to be the year of the AI agent. The number of
+enterprise applications with agentic AI is projected to increase to 33% by
+2028, up from 1% .
+Thatʼs where Replit comes in. Replit is pushing forward the usefulness of AI
+agents in one key category — software creation.
+Since the companyʼs beginning, Replitʼs mission has been to democratize
+access to programming and empowering a billion software creators. Amjad
+Masad, the CEO of Replit, believes that AI is the unlock to that
+democratization. As he describes it, “if you can use a computer you should
+be able to make software.”
+The Replit Agent is a code generation agent meant to automatically produce
+an application from an idea expressed in natural language. By removing the
+barrier of becoming a professional software engineer, Replit can enable the
+fruition of the original vision of computing — autonomously generated
+software applications that can perform specific tasks.
+To learn more about Replit and how the company is making the original
+vision of computing a reality with agentic AI, check out our new memo on
+the company.
+
+
+Subscribed
+
+
+today
+
+
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 3/10
+
+
+Chainguard plays a critical role in securing the software supply chain by
+creating secure base container images. The company verifies each line of
+code in the images used to create deployable containers in order to identify
+and remove vulnerabilities. To learn more, read our full memo here and
+check out some open roles below:
+Senior/Staff Security Engineer - Remote (US)
+Senior Product Marketing Manager - Remote (US)
+
+
+Copy.ai uses large language models like GPT-3 and Claude to help
+businesses generate marketing and advertising copy using generative AI. To
+learn more, read our full memo here and check out some open roles below:
+Senior Platform Engineer - Remote (San Francisco area)
+VP of Product - Remote (San Francisco area)
+
+
+Personio is an HR technology company focused on serving the needs of
+SMEs in Europe. To learn more, read our full memo here and check out
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 4/10
+
+
+some open roles below:
+Senior Software Engineer (AI Team) - New York, NY
+Frontend Engineer (Growth) - Berlin, Germany
+
+
+Axonius is an asset management platform. Serving as a central hub,
+Axonius aggregates and normalizes security data from over 1.1K diverse
+business, IT, and security sources via APIs as of February 2025. To learn
+more, read our full memo here and check out some open roles below:
+Senior Security Operations Engineer - Remote (US)
+DevOps Production Engineer - Austin, TX
+
+
+Airwallex is a financial services platform focused on facilitating cross-
+border transactions, processing more than $100 billion in global
+
+
+transactions annually as of February 2025. To learn more, read our full
+memo here and check out some open roles below:
+Senior Software Engineer (Mobile) - San Francisco, CA
+Senior Solutions Engineer (Americas) - San Francisco, CA
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 5/10
+
+
+Checkr automates 99% of the background check process after data
+retrieval, significantly reducing turnaround times and improving accuracy.
+To learn more, read our full memo here and check out some open roles
+below:
+Senior DevOps Engineer - Denver, CO
+Senior Product Analyst - Denver, CO
+
+
+Check out some standout roles from this week.
+Ramp | New York, NY, San Francisco, CA or Remote (US) - Senior
+Security Engineer (Detection & Response), Program Manager (GTM
+Onboarding), Senior Product Designer, Senior Analytics Engineer,
+Software Engineer (Applied AI), Senior Software Engineer (Backend)
+Databricks | Mountain View or San Francisco, CA - Senior Learning
+Platform Engineer, Engineering Manager (Identity Platform), Senior
+Applied AI Engineer, Senior Manager (Infrastructure Data Science),
+Senior Software Engineer (Fullstack)
+Rippling | San Francisco, CA - Director of Product Management
+(Platform), Engineering Manager (Growth Marketing), Fullstack
+Engineer II, Product GTM Manager (Narrative), Senior Software
+Engineer (Product Infrastructure & Tools)
+
+
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 6/10
+
+
+Microsoft is shutting down Skype on to focus on its
+Teams platform which has seen a four-fold increase in consumer
+calling minutes over the past two years.
+Brex aims to reach $500 million in annual net revenue by 2025 as
+it considers an IPO, but is focused on improving its business
+predictability first.
+OpenAI released GPT-4.5, a research preview of their most
+advanced model, featuring improved pattern recognition, a broader
+knowledge base, and enhanced user interaction with fewer
+hallucinations.
+AIʼs productivity paradox: While small firms eagerly adopt AI for
+efficiency, the real economic impact is bottlenecked by large
+corporationsʼ slower integration, legacy systems, and resistance to
+overhauling operations.
+HashiCorp has officially joined IBM, marking the completion of its
+acquisition and the next phase in its mission to enable multi-cloud
+infrastructure.
+Early-stage startups rarely have true competitive moats, Pratyush
+Buddiga writes, with their only advantage being uncertainty, and
+that long-term competitive advantage comes from factors like supply
+control, demand entrenchment, and economies of scale.
+Social media and Pan-African media outlets are reshaping Africaʼs
+global narrative, moving beyond foreign perspectives to showcase
+the continentʼs influence in media, pop culture, technology, and
+business.
+MrBeast is reportedly seeking to raise hundreds of millions of
+dollars to create a holding company for his growing empire, which
+includes media, snacks, and packaged goods, potentially valuing his
+business at $5 billion.
+Stripe is conducting a tender offer at a $91.5 billion valuation to
+provide liquidity to employees while also repurchasing shares,
+following a year of strong growth with $1.4 trillion in payment volume.
+
+
+May 5, 2025
+
+
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 7/10
+
+
+Varda successfully landed its second reentry capsule, W-2,
+carrying an AFRL spectrometer that recorded the first-ever in situ
+optical emission measurements of a spacecraft during atmospheric
+reentry.
+The AI infrastructure cycle remains bullish, with strong demand
+for compute power driven by AI scaling laws, Microsoft's evolving
+data center strategy, and geopolitical implications, particularly for
+Nvidia, which is seen as central to the growth of AI infrastructure.
+Y Combinator deleted a demo video from Optifye.ai after it went
+viral and sparked social media backlash, where the video
+showcased AI-powered security cameras tracking workers'
+performance in a factory.
+Perplexity is launching a $50 million seed and pre-seed venture
+fund, using some of its own raised capital alongside limited partners,
+and managed by its co-founders Kelly Graziadei and Joanna Lee
+Shevelenko.
+Coatue's report highlights that while the defense sector's role in
+driving technological innovation has diminished, a new wave of
+innovation is emerging due to government initiatives,
+groundbreaking technologies, and the need for modernization,
+presenting significant opportunities.
+Meta isnʼt content with the $10 billion, city-sized data center itʼs
+building in Louisiana, and is discussing plans to build a $200 billion
+“data center campus.”
+Jeff Bezos emailed The Washington Post about focusing its opinion
+pages on supporting personal liberties and free markets.
+Perplexity is receiving inbound VC offers at a $15 billion valuation,
+up from its previous $9 billion round.
+German startup Proxima Fusion has published open-source plans
+for a commercial nuclear-fusion power plant, marking a significant
+milestone in efforts to create sustainable, clean energy through fusion
+technology.
+
+
+3/8/25, 3:45 PM Contrary Research Rundown #125 • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/19551ce96cb8d761 8/10
+
+
+European startups produce billion-dollar companies at the same
+rate as US ones when measured per dollar invested despite
+dramatically less capital deployed.
+DeepSeek is reshaping the economics of AI by delivering top-tier
+performance at a fraction of the cost, with its R1 model achieving
+1/40th the cost of previous models and its V3 model cutting training
+costs by over 90%.
+Grok 3's system prompt is unintentionally biasing the model to
+mention figures like Elon Musk and Trump out of context.
+The EU spent more on Russian oil and gas (€22 billion) in 2024
+than on financial aid to Ukraine (€19 billion) amid ongoing efforts to
+reduce reliance on Russian fossil fuels.
+After its $5.3 billion Visa acquisition was blocked, Plaid pivoted
+into a fintech powerhouse, connecting over 8K financial institutions,
+expanding into enterprise markets, and positioning for an IPO.
+Anthropic is increasing its next funding round to $3.5 billion,
+bringing its valuation to $61.5 billion, as it aims to develop more
+advanced AI technologies, despite posting losses.
+
+
+
+
+________________
+
+
+
+
+TITLE: LENNY’S NEWSLETTER
+
+
+Notionʼs lost years, its near
+collapse during Covid, staying
+small to move fast, the joy and
+suffering of building horizontal,
+
+
+more | Ivan Zhao (CEO and co-
+founder)
+
+
+Ivan Zhao (co-founder and CEO of Notion) reveals how a lean team,
+a passionate community, and a contrarian building product approach
+turned Notion into one of the most beloved products in the world
+
+
+READ IN APP
+
+
+MAR 6
+
+
+LENNY'S PODCAST: PRODUCT | GR...
+
+
+MAR 6
+
+
+3/8/25, 3:45 PM Notion’s lost years, its near collapse during Covid, staying small to move fast, the joy and suffering of building... • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1956b661696ece4f 1/9
+
+
+Listen now on Apple, Spotify, and YouTube.
+Brought to you by:
+• Eppo—Run reliable, impactful experiments
+• Airtable ProductCentral—Launch to new heights with a unified system for
+product development
+• Sinch—Build messaging, email, and calling into your product
+
+
+—
+
+
+Ivan Zhao is the co-founder and CEO of Notion. Ivan shares the untold story
+of Notion, from nearly running out of database space during Covid to finding
+
+
+3/8/25, 3:45 PM Notion’s lost years, its near collapse during Covid, staying small to move fast, the joy and suffering of building... • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1956b661696ece4f 2/9
+
+
+product-market fit a
+
+
+er several “lost years,” and the hard-won lessons along
+
+
+the way.
+What you’ll learn:
+1. Why you sometimes need to “hide your vision” behind something
+people actually want—what Ivan calls “sugar-coating the broccoli”
+2. How Ivan and his co-founder persevered through multiple product
+resets and complete code rewrites
+3. Why Notion prioritized systems over headcount, keeping the team
+small and focused even at scale
+4. Why Ivan believes in cra
+
+
+and values as the foundation for product
+development, balancing technical excellence with aesthetic sensibility
+5. The surprising story of how Notion nearly collapsed during Covid when
+their single database almost ran out of space with only weeks to spare
+6. Community-led growth tactics
+7. Ivan’s unique journey from a small town in China
+8. Much more
+
+
+Find the transcript at: h
+
+
+ps://www.lennysnewsle
+
+
+er.com/p/inside-notion-
+ivan-zhao
+
+
+3/8/25, 3:45 PM Notion’s lost years, its near collapse during Covid, staying small to move fast, the joy and suffering of building... • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1956b661696ece4f 3/9
+
+
+Some takeaways:
+1. Don’t be afraid to start over: Notion’s early years were extremely
+challenging. Ivan and his co-founder made the drastic decision to scrap
+everything, fire their small team, and rebuild from scratch. This bold
+pivot (including a move to Kyoto to code 18 hours a day) was risky but
+ultimately turned Notion into the product that fit the market.
+2. Build a great product above all else: Rather than spending energy on
+early publicity or fundraising, focus on making something people truly
+love. “If you build something great, the network will come and investors
+will say yes,” Ivan explains, highlighting that Notion’s team devoted
+themselves to product over hype in the early days.
+3. Notion’s first version flopped—it was buggy and too complex.
+4. Build for the user, not just yourself—Ivan admits the original product
+was “what I wanted” rather than what users actually needed. The
+reboot succeeded because they incorporated user feedback and
+simplified the experience. Lesson: Solve real user problems, and be
+willing to rethink your assumptions.
+5. Community is a competitive advantage: Notion cultivated a passionate
+community as its not-so-secret weapon. Early on, Ivan personally
+replied to users’ tweets and emails, showing there’s a human behind the
+product. By empowering power users (through programs like Notion
+Ambassadors and community events), Notion created an army of
+evangelists who spread the word and even built local communities
+around the world.
+6. Stay true to your vision (but stay flexible): Even as Notion struggled,
+Ivan’s core vision never changed: “to give anyone the ability to
+customize so
+
+
+ware to their needs.” They drew inspiration from early
+computer pioneers and stuck to the mission of an all-in-one tool. But
+they stayed flexible on implementation, completely overhauling the
+tech and UX when it wasn’t working. Key insight: Hold your vision, but
+pivot on tactics when needed.
+7. Ivan admits their first product was too confusing: “People don’t want to
+build apps.” The big lesson was to solve a real user need. Notion’s team
+
+
+3/8/25, 3:45 PM Notion’s lost years, its near collapse during Covid, staying small to move fast, the joy and suffering of building... • muditg@stanford.edu
+
+
+https://mail.superhuman.com/muditg@stanford.edu/inbox/newsletters/thread/1956b661696ece4f 4/9
+
+
+pivoted to a more familiar concept (notes and docs with a twist),
+
+
+essentially “building for the world, not just for ourselves.” This product-
+market-fit insight—make it simple, then gradually introduce advanced
+
+
+features—was the game changer that set Notion on a growth
+trajectory.
+8. Ivan’s advice for entrepreneurs struggling with direction: “Reset and
+start again if you need to.” He believes that progress o
+
+
+en comes from
+
+
+be
+er abstractions and learning from past mistakes.
+9. Stay lean to move fast. Notion intentionally kept its team small and
+scrappy. Remarkably, they hit unicorn status with just a few dozen
+
+
+employees. This lean-team approach meant faster decisions, a tight-
+knit culture, and the ability to iterate quickly without heavy process.
+
+
+10. Notion took an unconventional path of delaying monetization on
+certain features and offering generous free plans early on. This wasn’t
+because they didn’t care about revenue but because they cared more
+
+
+about building trust and providing value to users. By not nickel-and-
+diming their community and only charging when the product truly
+
+
+delivered enough value, Notion created goodwill that translated into
+loyalty and word of mouth. The result? When they did start monetizing
+team plans and upsells, users were more than willing to pay, and many
+had already become advocates.
+11. When building horizontal products:
+a. Start with a clear, compelling use case that gives you broad
+distribution (like docs/notes)
+b. Hide your broader vision inside something people already
+understand and want
+c. Balance between “Lego bricks” (foundational capabilities) and
+“Lego boxes” (packaged solutions)
+d. Recognize that different segments need different levels of
+assembly and guidance
